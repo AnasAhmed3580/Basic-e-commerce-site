@@ -1,1 +1,1 @@
-# Basic-e-commerce-site
+# Amazon-Clone
